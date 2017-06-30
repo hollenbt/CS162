@@ -1,0 +1,93 @@
+     ||***********************************************||
+
+     || Gladiator Coliseum Tycoon: Instruction Manual ||
+
+     ||***********************************************||
+
+
+
+In this game, you are a king who is trying to make money by
+
+holding tournaments in which gladiators of various races fight
+
+to the death. You must first take on some financial risk by
+
+making an investment. The invested money is then used to recruit
+
+gladiators to fight in your tournaments.
+
+
+
+There are five races: Humans, two types of elves (High elves
+
+and Dryads), and two types of demons (Balrogs and Cyberdemons).
+
+Most of the attendees are humans, but there is a strong minority
+
+of elves as well. While they love bloodshed in any form, the
+
+crowd would prefer to see demons dying than humans or elves.
+
+Similarly, the crowd enjoys victorious humans and elves more than
+
+demons.
+
+Additionally, all elves have a 10% chance of a magical attack that
+
+double the damage dealt. Dryads also have a 5% chance of communing
+
+with the forest, restoring themselves to full health. All Demons have
+
+a 5% chance of a Demonic attack that inflicts 50 additional damage.
+
+Balrogs are fast and attack twice per turn (the chance of a Demonic
+
+attack applies on both hits).
+
+
+
+****************************************************************
+
+** Stat        Human   High elf    Dryad   Balrog  Cyberdemon **
+
+****************************************************************
+
+** Strength    50      36          24      20      60         **
+
+** Hitpoints   200     160         240     200     300        **
+
+** Speed       50      80          60      100     40         **
+
+** Payoff      6       8           10      16      16         **
+
+** Cost        10      12          15      20      20         **
+
+** Multiplier  2.0     1.5         1.5     1.0     1.0        **
+
+****************************************************************
+
+
+
+Strength is the maximum damage inflicted per attack (a random
+
+number between 0 and strength is generated for each attack).
+
+
+
+Hitpoints is the damage that can be sustained.
+
+
+
+Speed determines which gladiator attacks first.
+
+
+
+Payoff is the base gold reward when a gladiator dies.
+
+
+
+Cost is the cost to recruit a gladiator.
+
+
+
+Multiplier is multiplied by the payoff when a gladiator wins a duel.

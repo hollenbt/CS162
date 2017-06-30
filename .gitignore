@@ -1,0 +1,20 @@
+# Compiled source files
+*.o
+*.out
+*.exe
+
+# Code::Blocks files
+*.cbp
+*.layout
+*.depend
+
+# Microsoft Office files
+*.docx
+*.vsdx
+*.pptx
+
+*.tar
+
+Other/
+Assign4_messed_up/
+*500*
